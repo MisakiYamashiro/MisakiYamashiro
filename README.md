@@ -15,5 +15,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misakiyamashiro&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MisakiYamashiro)](https://github.com/anuraghazra/github-readme-stats)
 
