@@ -14,5 +14,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
 </p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MisakiYamashiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=MisakiYamashiro&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
