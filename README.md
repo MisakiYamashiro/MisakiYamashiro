@@ -14,4 +14,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MisakiYamashiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisakiYamashiro&theme=tokyonight)
