@@ -14,4 +14,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisakiYamashiro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisakiYamashiro)](https://github.com/anuraghazra/github-readme-stats)
