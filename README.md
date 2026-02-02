@@ -14,4 +14,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisakiYamashiro)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MisakiYamashiro&theme=dark" alt="MisakiYamashiro" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisakiYamashiro&hide=javascript,css,scss,html&theme=tokyonight)
