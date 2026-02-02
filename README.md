@@ -15,4 +15,4 @@
 </p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MisakiYamashiro&theme=dark" alt="MisakiYamashiro" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisakiYamashiro&hide=javascript,css,scss,html&theme=tokyonight)
+<p><img align="center" height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=MisakiYamashiro&hide=javascript,css,scss,html&theme=tokyonight)" alt="MisakiYamashiro" /></p>
